@@ -1,1 +1,2 @@
 Array.includes(something[index])
+LEFT(string, ) // sql // 
