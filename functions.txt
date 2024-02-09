@@ -1,2 +1,3 @@
 Array.includes(something[index])
-LEFT(string, ) // sql // 
+LEFT(string, count) // sql // Վաերացնում է նախադասությունը count թվից հետո
+strtolen(string) // get str length
